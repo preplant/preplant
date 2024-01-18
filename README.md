@@ -4,4 +4,4 @@
 <!--END_SECTION:waka-->
 
 I don't know what to write.<br>
-I'll probably put some metrics here after I figure out how they work.
+I'll probably add some metrics here after I figure out how they work.
