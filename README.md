@@ -35,4 +35,6 @@ public class Main {
 }
 ```
 
+---
+
 ### Thanks for reading!
